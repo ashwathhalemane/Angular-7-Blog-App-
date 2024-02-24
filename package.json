@@ -24,7 +24,7 @@
     "jquery": "^3.3.1",
     "ng2-toastr": "^4.1.2",
     "rxjs": "~6.3.3",
-    "rxjs-compat": "~6.3.3",
+    "rxjs-compat": "~6.6.7",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
